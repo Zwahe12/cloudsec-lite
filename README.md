@@ -1,4 +1,4 @@
-# CloudSec Lite 🔐
+# CloudSec Lite 
 
 A lightweight Python security scanner that detects common cloud misconfigurations in Terraform files.
 
